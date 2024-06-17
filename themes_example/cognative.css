@@ -1,0 +1,24 @@
+:root,
+::after,
+::before  {
+  [data-test="none"] {
+
+  }
+ [data-cognative="none"] {
+  --spacing-multiplier: 0;
+  --cognative-name: None;
+  --cognative-font-multiplier: 1;
+  --cognative-line-heights-none: 1;
+  --cognative-line-heights-auto: 1.5;
+  --cognative-line-heights-small: 1.3;
+  --cognative-line-heights-large: 1.7;
+  --cognative-font-weights-header: 700;
+  --cognative-font-weights-extra-bold: 800;
+  --cognative-font-weights-bold: 700;
+  --cognative-font-weights-regular: 600;
+  --cognative-font-weights-light: 500;
+  --cognative-font-weights-extra-light: 400;
+  --cognative-font-families-secondary: Discover Sans;
+  --cognative-font-families-primary: Discover Sans;
+  }
+}

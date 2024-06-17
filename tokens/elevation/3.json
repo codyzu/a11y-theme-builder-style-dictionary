@@ -1,0 +1,26 @@
+{
+  "color": {
+    "value": "{elevation.color.3}",
+    "type": "color"
+  },
+  "on-color": {
+    "value": "{elevation.on-color.3}",
+    "type": "color"
+  },
+  "quiet": {
+    "value": "{elevation.quiet.3}",
+    "type": "color"
+  },
+  "border": {
+    "value": "{elevation.border.3}",
+    "type": "color"
+  },
+  "outer-border": {
+    "value": "{core-colors.transparent}",
+    "type": "color"
+  },
+  "elevation-level": {
+    "value": "3",
+    "type": "number"
+  }
+}

@@ -1,0 +1,26 @@
+:root,
+::after,
+::before  {
+  [data-test="none"] {
+
+  }
+  [data-spacing="extended"] {
+  --name: Extended;
+  --letter-spacing-9: 1.75;
+  --letter-spacing-8: 1.5;
+  --letter-spacing-7: 1.25;
+  --letter-spacing-6: 0.5;
+  --letter-spacing-5: .4;
+  --letter-spacing-4: .25;
+  --letter-spacing-3: .15;
+  --letter-spacing-2: 0;
+  --letter-spacing-1: -.05;
+  --letter-spacing-0: -.15;
+  --paragraph-spacing-none: 1;
+  --paragraph-spacing-large: 2;
+  --paragraph-spacing-small: 2;
+  --line-height-none: 1;
+  --line-height-auto: 1.5;
+  --line-height-small: 1.5;
+  --line-height-large: 1.7;
+}}

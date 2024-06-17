@@ -1,0 +1,16 @@
+:root,
+::after,
+::before  {
+  [data-test="none"] {
+
+  }
+  [data-device="tablet-962x601"] {
+  --dimension: tablet 962 x 601;
+  --navbar-avatar: block;
+  --navbar-brand-icon: hidden;
+  --navbar-desktop-nav: hidden;
+  --navbar-mobile-menu: block;
+  --sizing-banner-height: 400px;
+  --sizing-device-height: 601px;
+  --sizing-device-width: 962px;
+}}

@@ -1,0 +1,22 @@
+:root,
+::after,
+::before  {
+  [data-test="none"] {
+
+  }
+[data-gradient="tertiary"] {
+  --gradient-position-4: var(--gradient-position-tertiary-4);
+  --gradient-position-3: var(--gradient-position-tertiary-3);
+  --gradient-position-2: var(--gradient-position-tertiary-2);
+  --gradient-position-1: var(--gradient-position-tertiary-1);
+  --gradient-angle: var(gradient-angle-tertiary);
+  --on-icon-primary-gradient: var(--mode-colors-primary-gradient-background-on-on-color);
+  --gradient-colors-4: var(--gradient-colors-tertiary-3);
+  --gradient-colors-3: var(--gradient-colors-tertiary-3);
+  --gradient-colors-2: var(--gradient-colors-tertiary-2);
+  --gradient-colors-1: var(--gradient-colors-tertiary-1);
+  --on-icon-tertiary-gradient: var(--mode-colors-tertiary-gradient-background-on-on-color);
+  --on-icon-secondary-gradient: var(--mode-colors-secondary-gradient-background-on-on-color);
+  --on-icon-neutral-30: var(--mode-colors-neutral-30-background-on-on-color);
+}
+}

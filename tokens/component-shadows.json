@@ -1,0 +1,48 @@
+{
+  "shadows": {
+    "button-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "card-shadow": {
+      "value": "{elevation-shadows.2}",
+      "type": "boxShadow"
+    },
+    "chip-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "dropdown-shadow": {
+      "value": "{elevation-shadows.1}",
+      "type": "boxShadow"
+    },
+    "image-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "avatar-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "pie-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "donut-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "bar-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "line-shadow": {
+      "value": "{elevation-shadows.0}",
+      "type": "boxShadow"
+    },
+    "toast-shadow": {
+      "value": "{elevation-shadows.2}",
+      "type": "boxShadow"
+    }
+  }
+}

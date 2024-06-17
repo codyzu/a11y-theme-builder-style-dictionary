@@ -1,0 +1,38 @@
+{
+  "sizing": {
+    "device-width": {
+      "value": "810px",
+      "type": "sizing"
+    },
+    "device-height": {
+      "value": "1080px",
+      "type": "sizing"
+    },
+    "banner-height": {
+      "value": "400px",
+      "type": "sizing"
+    }
+  },
+  "navbar": {
+    "mobile-menu": {
+      "value": "true",
+      "type": "boolean"
+    },
+    "desktop-nav": {
+      "value": "false",
+      "type": "boolean"
+    },
+    "brand-icon": {
+      "value": "false",
+      "type": "boolean"
+    },
+    "avatar": {
+      "value": "true",
+      "type": "boolean"
+    }
+  },
+  "dimension": {
+    "value": "tablet 810 x 1080",
+    "type": "text"
+  }
+}

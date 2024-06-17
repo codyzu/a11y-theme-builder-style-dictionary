@@ -1,0 +1,87 @@
+:root,
+::after,
+::before  {
+  [data-test="none"] {
+
+  }
+  [data-elevation="0"] {
+  --elevation-level: 0;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-0);
+  --border: var(--elevation-border-0);
+  --color: var(--elevation-color-0);
+  --on-color: var(--elevation-on-color-0);
+}
+[data-elevation="1"] {
+  --elevation-level: 1;
+  --outer-border:  var(--elevation-border-1);
+  --quiet: var(--elevation-quiet-1);
+  --border: var(--elevation-border-1);
+  --color: var(--elevation-color-1);
+  --on-color: var(--elevation-on-color-1);
+}
+[data-elevation="2"] {
+  --elevation-level: 2;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-2);
+  --border: var(--elevation-border-2);
+  --color: var(--elevation-color-2);
+  --on-color: var(--elevation-on-color-2);
+}
+[data-elevation="3"] {
+  --elevation-level: 3;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-3);
+  --border: var(--elevation-border-3);
+  --color: var(--elevation-color-3);
+  --on-color: var(--elevation-on-color-3);
+}
+[data-elevation="4"] {
+  --elevation-level: 4;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-4);
+  --border: var(--elevation-border-4);
+  --color: var(--elevation-color-4);
+  --on-color: var(--elevation-on-color-4);
+}
+[data-elevation="5"] {
+  --elevation-level: 5;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-5);
+  --border: var(--elevation-border-5);
+  --color: var(--elevation-color-5);
+  --on-color: var(--elevation-on-color-5);
+}
+[data-elevation="6"] {
+  --elevation-level: 2;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-6);
+  --border: var(--elevation-border-6);
+  --color: var(--elevation-color-6);
+  --on-color: var(--elevation-on-color-6);
+}
+[data-elevation="7"] {
+  --elevation-level: 7;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-7);
+  --border: var(--elevation-border-7);
+  --color: var(--elevation-color-7);
+  --on-color: var(--elevation-on-color-7);
+}
+[data-elevation="8"] {
+  --elevation-level: 8;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-8);
+  --border: var(--elevation-border-8);
+  --color: var(--elevation-color-8);
+  --on-color: var(--elevation-on-color-8);
+}
+[data-elevation="9"] {
+  --elevation-level: 9;
+  --outer-border: var(--core-colors-transparent);
+  --quiet: var(--elevation-quiet-9);
+  --border: var(--elevation-border-9);
+  --color: var(--elevation-color-9);
+  --on-color: var(--elevation-on-color-9);
+}
+}

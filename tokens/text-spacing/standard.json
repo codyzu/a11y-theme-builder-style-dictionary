@@ -1,0 +1,82 @@
+{
+  "text-spacing": {
+    "line-height": {
+      "large": {
+        "value": "1.5",
+        "type": "number"
+      },
+      "small": {
+        "value": "1.3",
+        "type": "number"
+      },
+      "auto": {
+        "value": "1.5",
+        "type": "number"
+      },
+      "none": {
+        "value": "1",
+        "type": "number"
+      }
+    },
+    "paragraph-spacing": {
+      "small": {
+        "value": "1.3",
+        "type": "number"
+      },
+      "large": {
+        "value": "1.5",
+        "type": "number"
+      },
+      "none": {
+        "value": "0",
+        "type": "number"
+      }
+    },
+    "letter-spacing": {
+      "0": {
+        "value": "{typography.letter-spacing.0}",
+        "type": "number"
+      },
+      "1": {
+        "value": "{typography.letter-spacing.1}",
+        "type": "number"
+      },
+      "2": {
+        "value": "{typography.letter-spacing.2}",
+        "type": "number"
+      },
+      "3": {
+        "value": "{typography.letter-spacing.3}",
+        "type": "number"
+      },
+      "4": {
+        "value": "{typography.letter-spacing.4}",
+        "type": "number"
+      },
+      "5": {
+        "value": "{typography.letter-spacing.5}",
+        "type": "number"
+      },
+      "6": {
+        "value": "{typography.letter-spacing.6}",
+        "type": "number"
+      },
+      "7": {
+        "value": "{typography.letter-spacing.7}",
+        "type": "number"
+      },
+      "8": {
+        "value": "{typography.letter-spacing.8}",
+        "type": "number"
+      },
+      "9": {
+        "value": "{typography.letter-spacing.9}",
+        "type": "number"
+      }
+    }
+  },
+  "text-spacing-name": {
+    "value": "Standard",
+    "type": "text"
+  }
+}

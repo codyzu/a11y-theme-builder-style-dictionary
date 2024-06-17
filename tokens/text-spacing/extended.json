@@ -1,0 +1,82 @@
+{
+  "text-spacing": {
+    "line-height": {
+      "large": {
+        "value": "1.7",
+        "type": "number"
+      },
+      "small": {
+        "value": "1.5",
+        "type": "number"
+      },
+      "auto": {
+        "value": "1.5",
+        "type": "number"
+      },
+      "none": {
+        "value": "1",
+        "type": "number"
+      }
+    },
+    "paragraph-spacing": {
+      "small": {
+        "value": "2",
+        "type": "number"
+      },
+      "large": {
+        "value": "2",
+        "type": "number"
+      },
+      "none": {
+        "value": "1",
+        "type": "number"
+      }
+    },
+    "letter-spacing": {
+      "0": {
+        "value": "-.15",
+        "type": "number"
+      },
+      "1": {
+        "value": "-.05",
+        "type": "number"
+      },
+      "2": {
+        "value": "0",
+        "type": "number"
+      },
+      "3": {
+        "value": ".15",
+        "type": "number"
+      },
+      "4": {
+        "value": ".25",
+        "type": "number"
+      },
+      "5": {
+        "value": ".4",
+        "type": "number"
+      },
+      "6": {
+        "value": "0.5",
+        "type": "number"
+      },
+      "7": {
+        "value": "1.25",
+        "type": "number"
+      },
+      "8": {
+        "value": "1.5",
+        "type": "number"
+      },
+      "9": {
+        "value": "1.75",
+        "type": "number"
+      }
+    }
+  },
+  "text-spacing-name": {
+    "value": "Extended",
+    "type": "text"
+  }
+}

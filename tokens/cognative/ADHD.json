@@ -1,0 +1,70 @@
+{
+  "cognative": {
+    "font-families": {
+      "primary": {
+        "value": "Open Sans",
+        "type": "text"
+      },
+      "secondary": {
+        "value": "Open Sans",
+        "type": "text"
+      }
+    },
+    "font-weights": {
+      "extra-light": {
+        "value": "400",
+        "type": "number"
+      },
+      "light": {
+        "value": "400",
+        "type": "number"
+      },
+      "regular": {
+        "value": "400",
+        "type": "number"
+      },
+      "bold": {
+        "value": "400",
+        "type": "number"
+      },
+      "extra-bold": {
+        "value": "400",
+        "type": "number"
+      },
+      "header": {
+        "value": "700",
+        "type": "number"
+      }
+    },
+    "line-heights": {
+      "large": {
+        "value": "1.7",
+        "type": "number"
+      },
+      "small": {
+        "value": "1.6",
+        "type": "number"
+      },
+      "auto": {
+        "value": "1.6",
+        "type": "number"
+      },
+      "none": {
+        "value": "1",
+        "type": "number"
+      }
+    },
+    "font-multiplier": {
+      "type": "number",
+      "value": "1.15"
+    }
+  },
+  "cognative-name": {
+    "value": "ADHD",
+    "type": "text"
+  },
+  "spacing-multiplier": {
+    "value": "1.5",
+    "type": "number"
+  }
+}
